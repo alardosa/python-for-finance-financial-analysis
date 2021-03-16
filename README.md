@@ -1,4 +1,4 @@
-# Python Finance Data Analysis – Productive Kickstart
+# Python Finance For Financial Analysis Unique Advantages
 
     How to automate financial analysis with Python using Pandas and Numpy
     Learn to find attractive companies to invest in using fundamental analysis with Pandas
